@@ -61,8 +61,3 @@
 </p>
 
 ---
-
-<!-- Footer -->
-<h4 align="center">
-Credit: (https://github.com/NashRick0)  
-</h4>
