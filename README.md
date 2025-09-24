@@ -34,7 +34,7 @@
 
 <!-- Descripción breve -->
 - 🔭 Working on: **Integradora II**  
-- 🌱 Learning: **React, Node.js, MongoDB**  
+- 🌱 Learning: **React, Node.js, MongoDB, Vue.js**  
 - 💬 Ask me about: **JavaScript, APIs, UI Design**  
 - 📫 Reach me at: **ricardolunaunzueta97@gmail.com**
 
@@ -48,7 +48,7 @@
   
 | Frontend | Backend | Dev Tools |
 |----------|---------|-----------|
-| <img src="https://skillicons.dev/icons?i=html,css,js,react" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,react,vue" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /> |
 
 </div>
 
