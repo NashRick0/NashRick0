@@ -72,16 +72,39 @@ I build modern applications while learning secure architecture, automation workf
 - Develop AI-powered security tools
 
 ---
+## 🛠 Current Projects
 
-## 📊 GitHub Stats
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
+### 🔐 Secure Auth API
+Secure authentication system using JWT, rate limiting, and protected routes.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NashRick0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+**Tech Stack**
+- Node.js
+- Express
+- MongoDB
+- JWT
+- Docker
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NashRick0&layout=compact&theme=tokyonight&hide_border=true"/>
+</td>
 
-</p>
+<td width="50%">
+
+### ⚙️ DevSecOps Lab
+Experimenting with CI/CD pipelines, container security, and automation workflows.
+
+**Focus Areas**
+- GitHub Actions
+- Linux
+- Docker
+- Security Testing
+- OWASP
+
+</td>
+</tr>
+</table>
 
 ---
 
